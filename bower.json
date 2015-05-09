@@ -1,0 +1,14 @@
+{
+    "name": "",
+    "version": "1.0.0",
+    "authors": [
+      "Steve Robert <steverobert.dev@gmail.com>"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap-sass-official": "~3.3.1",
+        "bourbon": "~4.2.1",
+        "sass-mediaqueries": "~1.5.1",
+        "hover": "~2.0.2"
+  }
+}
